@@ -43,7 +43,7 @@ table {
 }
 #countdown {
     text-align: center;
-    margin:  55px 0px 50px;
+    margin:  55px 0px 0px;
     min-height: 50px;
 }
 #countdown > div {
